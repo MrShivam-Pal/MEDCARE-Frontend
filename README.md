@@ -1,2 +1,2 @@
-# pms-frontend
- hackathon-project-frontend-repo
+# MEDCARE 
+  Medcare Frontend Hackathon Project
